@@ -18,6 +18,6 @@
 ## Post common core
 - [42-libasm](https://github.com/gumpgone/42-libasm) — Assembleur
 
-## Hors 42
+## PERSO
 - [sudoku-solver](https://github.com/gumpgone/sudoku-solver)
 - [tree-fractal](https://github.com/gumpgone/tree-fractal)
