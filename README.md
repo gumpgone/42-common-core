@@ -19,5 +19,5 @@
 - [42-libasm](https://github.com/gumpgone/42-libasm) — Assembleur
 
 ## PERSO
-- [sudoku-solver](https://github.com/gumpgone/sudoku-solver)
-- [tree-fractal](https://github.com/gumpgone/tree-fractal)
+- [sudoku-solver](https://github.com/gumpgone/sudoku-solver) - sudoku brute force
+- [tree-fractal](https://github.com/gumpgone/tree-fractal)  - tree-fractal
